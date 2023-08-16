@@ -6,6 +6,6 @@ I've completed a fascinating project on music store data analysis using SQL Work
 Insights :-
 
 - Senior most employee on job title is Andrew adam.
-- USA is the country which have most number of invoices.
-- Prague city is most number of customers which purchased the music.
-- Argentina is the country which has spent most on the music.
+- USA is the country that has most number of invoices.
+- Prague city has the highest number of customers who purchase music.
+- Argentina is the country that has spent most on music.
